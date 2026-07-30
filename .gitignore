@@ -1,0 +1,3 @@
+node_modules/
+microblog.sqlite3*
+.env
